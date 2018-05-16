@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>remotedata_one</key>
+        <value>Text from REMOTE CONFIG --1--</value>
+    </entry>
+    <entry>
+        <key>remotedata_two</key>
+        <value>Text from REMOTE CONFIG --2--</value>
+    </entry>
+    <entry>
+        <key>image_url</key>
+        <value>https://www.google.com/images/srpr/logo11w.png</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->
+

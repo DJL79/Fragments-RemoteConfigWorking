@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "977441184055",
+    "firebase_url": "https://march2018-c8cf3.firebaseio.com",
+    "project_id": "march2018-c8cf3",
+    "storage_bucket": "march2018-c8cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977441184055:android:7bc6764cb0bdd753",
+        "android_client_info": {
+          "package_name": "com.march2018.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIi0Ysdni_BpHdgQqwLlsPsBxKvjm52OU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977441184055:android:80201d60e618a2a8",
+        "android_client_info": {
+          "package_name": "com.remoteJava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIi0Ysdni_BpHdgQqwLlsPsBxKvjm52OU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977441184055:android:47a8d93fb45b6f6f",
+        "android_client_info": {
+          "package_name": "uk.co.apptouch.apptouchtemplate10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977441184055-h1c9ujmdtm0jo14ahtoedniic1jrdl6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.apptouch.apptouchtemplate10",
+            "certificate_hash": "a70486f7a8de777b9f3d246462b57baef6be3f8c"
+          }
+        },
+        {
+          "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIi0Ysdni_BpHdgQqwLlsPsBxKvjm52OU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977441184055:android:d8fa992f36f75af2",
+        "android_client_info": {
+          "package_name": "uk.co.apptouch.imagetextremoteapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977441184055-lofpc1s2l895u8bbcspqp452amku928h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.apptouch.imagetextremoteapps",
+            "certificate_hash": "a70486f7a8de777b9f3d246462b57baef6be3f8c"
+          }
+        },
+        {
+          "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIi0Ysdni_BpHdgQqwLlsPsBxKvjm52OU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977441184055:android:d446f8cf8df4e3e6",
+        "android_client_info": {
+          "package_name": "uk.co.apptouch.remoteconfirmay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977441184055-099u0vro3vma03nqe9bmmrrbttb4j4vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.apptouch.remoteconfirmay",
+            "certificate_hash": "a70486f7a8de777b9f3d246462b57baef6be3f8c"
+          }
+        },
+        {
+          "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIi0Ysdni_BpHdgQqwLlsPsBxKvjm52OU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977441184055:android:44f4a5a3b1c40d70",
+        "android_client_info": {
+          "package_name": "uk.co.boonapp.remoteconfigjava111"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977441184055-2p40bdl6ros8jvkp11d9bnm5mdu2nfea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.boonapp.remoteconfigjava111",
+            "certificate_hash": "4832291b82f07b7b6ebfe6c0d0308427a074b262"
+          }
+        },
+        {
+          "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIi0Ysdni_BpHdgQqwLlsPsBxKvjm52OU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977441184055-qsu7r6moc7173ktkdfqv97jm30o8j458.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
